@@ -4,6 +4,7 @@
   "description": "All paws on deck group project",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.16.4",
     "lodash": "^4.17.11"
   },
   "devDependencies": {},
